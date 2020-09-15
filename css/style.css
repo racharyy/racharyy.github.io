@@ -42,6 +42,12 @@ h1 {
     line-height: 70px;
 }
 
+h6 {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    line-height: 40px;
+}
+
 h2 {
     font-family: 'Playfair Display', serif;
     font-size: 100px;
@@ -92,6 +98,11 @@ body {
 
 .h-50 {
     height: 50px;
+}
+
+.size-20 {
+    font-size: 25px;
+    line-height: 25px
 }
 
 
