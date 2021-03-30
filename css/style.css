@@ -683,13 +683,20 @@ a.active {
 }
 
 
+/*=============================*/
+
+#talks {
+    padding: 100px 0;
+    background: #ffffff;
+}
+
 
 /* contact
 ==================================================*/
 
 #contact {
     padding: 100px 0;
-    background: #ffffff;
+    background: #f3f3f3;
 }
 
 #contact-form input,
